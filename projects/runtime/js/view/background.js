@@ -40,7 +40,7 @@ var background = function (window) {
             
             var shape = draw.bitmap('img/moon.png');
             shape.x = 300;
-            shape.y =25;
+            shape.y =25
             background.addChild(shape);
             
             
